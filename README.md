@@ -22,7 +22,7 @@
 
 # 7. 블루 스코어 및 팀원 자체 평가
 자체 평가는 각 모델이 생성한 문장 4개를 보고 좀 더 자연스럽다고 여기는 것을 순위를 매기고, 팀원들이 매긴 순위에 총 점수를 합쳤다.
-(https://user-images.githubusercontent.com/83565491/228478123-a44fcbd2-9728-4a59-aad0-2e4e850ed6e6.png)
+https://user-images.githubusercontent.com/83565491/228478123-a44fcbd2-9728-4a59-aad0-2e4e850ed6e6.png
 
 
 # 8. BLEU Score를 사용한 이유는?
